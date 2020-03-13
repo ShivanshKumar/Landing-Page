@@ -13,18 +13,23 @@ const Template7 = ()=>{
 						sed do eiusmod tempor incididunt ut labore et dolore magna.
 				</p>
 				<br/>
-				<span>
-					<input type = 'text' placeholder = '  First Name'/>
-					<input type = 'text' placeholder = '  Last Name'/>
-				</span>
-				<br/>
-				<input id = 'email' type = 'email' placeholder = 'Email'/>
-				<br/>
-				<br/>
-				<textarea id = 'Message' type = 'text' placeholder = 'Message'/>
-				<br/>
-				<br/>	
-				<Button value = 'Submit'/>			
+
+				<span id = 'fill'>
+
+					<span id = 'fln'>
+						<input type = 'text' placeholder = '  First Name'/>
+						<input type = 'text' placeholder = '  Last Name'/>
+					</span>
+					<br/>
+					<input id = 'email' type = 'email' placeholder = 'Email'/>
+					<br/>
+					<br/>
+					<textarea id = 'Message' type = 'text' placeholder = 'Message'/>
+					<br/>
+					<br/>	
+					<Button value = 'Submit'/>
+						
+				</span>		
 			</div>
 			<br/>
 			<br/>
