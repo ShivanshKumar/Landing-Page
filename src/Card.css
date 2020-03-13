@@ -1,0 +1,26 @@
+#card {
+	padding-left: 2em;
+}
+
+#pic{
+transform: scale(0.75, 0.75);
+}
+
+#contact{
+	color: #f9bb48;
+}
+
+#contact img{
+	transform: scale(0.75, 0.75);
+	position: relative;
+	top: 0.2em;
+	left:1em;
+}
+#cdetail{
+	text-align: center;
+	color:grey;
+}
+#card:hover{
+	color: #f9bb48;
+ 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }

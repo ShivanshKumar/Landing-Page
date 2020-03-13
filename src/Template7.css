@@ -1,0 +1,65 @@
+#t7{
+	display: flex;
+}
+
+#t7 img {
+		transform: scale(0.65, 0.65);
+
+}
+
+#form{
+	position: relative;
+	top: 4em;
+}
+
+#form p{
+	margin-top: 0;
+	color: grey;
+}
+
+#t7 span {
+	display: flex;
+	justify-content: space-around;
+}
+
+#t7 span input {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 10em;
+    height: 0.01em; 
+	border-style: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+
+}
+
+#email{
+	border-radius: 25px;
+    padding: 20px; 
+    width: 25em;
+    height: 0.01em; 
+	border-style: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+#Message {
+	text-align: start;
+	border-radius: 25px;
+    padding: 20px; 
+    width: 25em;
+    height: 13em; 
+	border-style: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+	resize: vertical;
+}
+#Message:hover{
+	border-style: solid;
+	border-color: #f9bb48;
+} 
+#t7 input:hover{
+	border-style: solid;
+	border-color: #f9bb48;
+}
+
+#form{
+	/*padding-right: 3em;*/
+}

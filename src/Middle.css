@@ -1,0 +1,8 @@
+#mid h2 {
+	color: grey;
+	text-align: center;
+}
+
+ #mid span img {
+ 	transform: scale(0.6, 0.6);
+ }

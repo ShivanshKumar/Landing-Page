@@ -1,0 +1,13 @@
+.b0 {
+	padding:0.9em 2.4em;
+	background-color: #f9bb48;
+	margin: 0 0.3em 0.3em 0;
+	border-radius: 2em;
+	font-weight:bold;
+	border: none;
+	color:white;
+}
+.glow-button:hover {
+ color: rgba(255, 255, 255, 1);
+ box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}

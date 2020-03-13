@@ -1,0 +1,29 @@
+#t4{
+	padding: 0 0;
+	padding-left: 3em;
+	display: flex;
+}
+#count{
+	/*padding-right: -5em;*/
+	width: 100%;
+}
+
+#count h1 {
+	margin: 0 0;
+	text-align: left;
+}
+
+#count span {
+	color: grey;
+}
+
+#ach {
+width: 100%;
+/*padding-left: 4em;*/
+}
+
+#achf, #achs{
+	width: inherit;
+	justify-content: space-evenly;
+	display: flex;
+}

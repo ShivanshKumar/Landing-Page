@@ -1,0 +1,18 @@
+#hr1 {
+	height: 18em;
+	background-color: rgba(1,1,1,0);
+	border-style: none;
+}
+
+#aff{
+	text-align: center;
+}
+
+#aff p {
+	color: grey;
+}
+
+#pcl {
+	display: flex;
+	justify-content: center;
+}

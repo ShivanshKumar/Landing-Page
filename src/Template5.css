@@ -1,0 +1,40 @@
+#t5{
+	display: flex;
+	clear: all;
+}
+#never {
+	position: relative;
+	top: 5em;
+}
+
+#never span hr {
+	margin: 0 0;
+	width: 7%;
+	border: none;
+	border-top: 2px solid #f9bb48;
+	position: relative;
+	top: 0.8em;
+}
+#never span {
+	display: flex;
+}
+#never span h3 {
+	margin: 0 0;
+	padding-left: 0.5em;
+	color: grey;
+}
+
+#never p {
+	color: grey;
+}
+
+#cus{
+ /*width: ;*/
+}
+
+#cus1, #cus2{
+	height: 60%;
+	width: inherit;
+	justify-content: space-around;
+	display: flex;
+}

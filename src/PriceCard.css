@@ -1,0 +1,60 @@
+#pcard{
+	width: 30%;
+/*	border-color: black;
+	border: solid;*/
+	justify-content: center;
+	}
+
+#pcard img {
+	margin: 0 0;
+	margin-left: 40%;
+	transform: scale(0.75, 0.75);
+
+}
+#pcard h2 {
+	margin: 0 0;
+	text-align: center;
+}
+
+#listed {
+	margin: 0 0; 
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding-left: 5em;
+
+}
+#listed li {
+	margin: 0.9em 0;
+	list-style-type: circle;
+	color: grey;
+
+} 
+
+#pcard span {
+	display: flex;
+	justify-content: center;
+}
+
+#pcard span h1 {
+	color: #f9bb48;
+	font-weight: bold;
+	font-size: 300%;
+}
+
+#pcard span h3 {
+	position: relative;
+	top:2em;
+	color: black;
+}
+
+#pcard Button {
+	margin-left: 30%; 
+}
+
+#pcard:hover{
+	color: #f9bb48;
+	border-style: dashed;
+	border-color: #f9bb48;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

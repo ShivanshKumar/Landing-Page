@@ -1,0 +1,34 @@
+#circle { 
+	display: flex;
+	flex-direction: column;
+	width: 27%;
+	border-radius: 50%;
+	clear: all;
+}
+
+#write{
+	transform: scale(0.3, 0.56);
+
+}
+
+#num{
+	color: #f9bb48;
+}
+
+#circle h4 {
+	text-align: center;
+	margin: 0 0;
+	color: grey;
+}
+
+#circle h2 {
+	text-align: center;
+	margin: 0 0;
+}
+
+#circle:hover{
+	border-style: dashed;
+	border-color: #f9bb48;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

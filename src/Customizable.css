@@ -1,0 +1,27 @@
+#custom {
+	/*height: 110%;*/
+	width:25%;
+	border-radius: 10%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+	transition: all .3s ease-in-out;
+	transition: transform .5s ease-in-out;	
+	text-align: center;
+}
+#custom h3 {
+	margin: 0 0;
+}
+#cdetail2 {
+	padding-left: 10%;
+	padding-right: 10%;
+	color: grey;
+}
+
+#pic2{
+ 	transform: scale(0.6, 0.6);
+}
+
+#custom:hover {
+	transform:rotate(10deg);
+	color: #f9bb48;
+	background-color: rgba(249,187,72,0.4);
+}
