@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## About This Website
+![In my reality my website works! Don't Know about yours as the site is not responsive and there are arefew bugs!](https://i.pinimg.com/originals/9c/33/0c/9c330c7756e48296f346127a1da2e567.jpg)
 This Website is not responsive yet and there are few bugs, may release minor version updates or bug fixes. Feel free to contribute!
 ### Note:
 There are some typical "works on my device (well more of works on my local host)" problem, going to fix them sometime in future!
