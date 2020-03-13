@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Landing-Page/static/css/main.3d62044e.chunk.css",
+    "main.js": "/Landing-Page/static/js/main.cd5b1071.chunk.js",
+    "main.js.map": "/Landing-Page/static/js/main.cd5b1071.chunk.js.map",
+    "runtime-main.js": "/Landing-Page/static/js/runtime-main.4371b47b.js",
+    "runtime-main.js.map": "/Landing-Page/static/js/runtime-main.4371b47b.js.map",
+    "static/js/2.b722e611.chunk.js": "/Landing-Page/static/js/2.b722e611.chunk.js",
+    "static/js/2.b722e611.chunk.js.map": "/Landing-Page/static/js/2.b722e611.chunk.js.map",
+    "index.html": "/Landing-Page/index.html",
+    "precache-manifest.0bc5bdca78b967fe83f6c27e0dc26432.js": "/Landing-Page/precache-manifest.0bc5bdca78b967fe83f6c27e0dc26432.js",
+    "service-worker.js": "/Landing-Page/service-worker.js",
+    "static/css/main.3d62044e.chunk.css.map": "/Landing-Page/static/css/main.3d62044e.chunk.css.map",
+    "static/js/2.b722e611.chunk.js.LICENSE.txt": "/Landing-Page/static/js/2.b722e611.chunk.js.LICENSE.txt",
+    "static/media/Custom.png": "/Landing-Page/static/media/Custom.83b61d3f.png",
+    "static/media/CustomHover.png": "/Landing-Page/static/media/CustomHover.1786632e.png",
+    "static/media/Des.png": "/Landing-Page/static/media/Des.15c38f51.png",
+    "static/media/Envato.png": "/Landing-Page/static/media/Envato.297bbc78.png",
+    "static/media/Gear.png": "/Landing-Page/static/media/Gear.6e7e5bf0.png",
+    "static/media/Girl.png": "/Landing-Page/static/media/Girl.25195f5f.png",
+    "static/media/Guys.png": "/Landing-Page/static/media/Guys.907f0c33.png",
+    "static/media/Logo.png": "/Landing-Page/static/media/Logo.7ff31d55.png",
+    "static/media/LogoDark.png": "/Landing-Page/static/media/LogoDark.0acef94e.png",
+    "static/media/Man.png": "/Landing-Page/static/media/Man.90802a81.png",
+    "static/media/Ok.png": "/Landing-Page/static/media/Ok.cf0d0418.png",
+    "static/media/Shield.png": "/Landing-Page/static/media/Shield.d1c40b81.png",
+    "static/media/Social.png": "/Landing-Page/static/media/Social.04c4a257.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4371b47b.js",
+    "static/js/2.b722e611.chunk.js",
+    "static/css/main.3d62044e.chunk.css",
+    "static/js/main.cd5b1071.chunk.js"
+  ]
+}
