@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About This Website
+This Website is not responsive yet and there are few bugs, may release minor version updates or bug fixes. Feel free to contribute!
+
 
 ## Available Scripts
 
