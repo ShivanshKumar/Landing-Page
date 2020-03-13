@@ -10,7 +10,6 @@ import Template6 from './Template6.js'
 import Template7 from './Template7.js'
 import Template8 from './Template8.js'
 import Middle from './Middle.js'
-import Customizable from './Customizable.js'
 
 import Custom from './Custom.png';
 import CustomHover from './CustomHover.png'
