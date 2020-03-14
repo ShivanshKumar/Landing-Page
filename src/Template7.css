@@ -38,7 +38,9 @@
 #fln input {
     border-radius: 25px;
     padding: 1.5em; 
-    width: 15em;
+    padding-left: 0em;
+    padding-right: 0em; 
+    width: 17em;
     height: 0.01em; 
 	border-style: none;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 

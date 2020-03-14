@@ -75,3 +75,7 @@
 	padding-right: 0.3em;
 	padding-left: 0.3em;
 }
+
+#fbn button:hover{
+	cursor: pointer;
+}
