@@ -8,11 +8,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This Website is not responsive yet and there are few bugs, may release minor version updates or bug fixes. Feel free to contribute!
 
 ### Version 1.1.0 Update:
-Changed the component having map (Template 8) a bit, fixed the indentation here and there, made the site a bit cleaner.
+Changed the component having map (Template 8) a bit, fixed the indentation here and there, made the site a bit cleaner,added a bunch of media queries to make the site a bit more responsive although it's not responsive as it should be yet.
 
 ### Note:
 There are some typical "works on my device (well more of works on my local host)" problem, going to fix them sometime in future!<br />
-Works great on 1280x800 resolution(verified)
+Works great on 1280x800 resolution(verified)<br/>
+Try to use Google Chrome Version 80.0.3987.132(or above) for best experience
 
 ## Available Scripts
 
