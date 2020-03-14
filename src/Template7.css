@@ -32,15 +32,13 @@
 
 #fln {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 #fln input {
     border-radius: 25px;
     padding: 1.5em; 
-    padding-left: 1em;
-    padding-right: 0em; 
-    width: 17em;
+    width: 15em;
     height: 0.01em; 
 	border-style: none;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
@@ -77,4 +75,46 @@
 
 #form{
 	/*padding-right: 3em;*/
+}
+
+@media screen and (min-width: 1349px) {
+	#fln {
+		display: flex;
+		justify-content: space-between;
+		width: 87%;
+	}
+
+	#fln input {
+	    border-radius: 25px;
+	    padding: 1.5em; 
+	    width: 80%;
+	    padding-left: 1em;
+	    padding-right: 0em; 
+	    width: 17em;
+	    height: 0.01em; 
+		border-style: none;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+
+	}
+
+	#email{
+		border-radius: 25px;
+	    padding: 1.5em; 
+	    width: 80%;
+	    height: 0.01em; 
+		border-style: none;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+	}
+
+	#Message {
+		text-align: start;
+		border-radius: 25px;
+	    padding: 1.5em; 
+	    width: 80%;
+	    height: 15em; 
+		border-style: none;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+		resize: vertical;
+	}
+
 }
