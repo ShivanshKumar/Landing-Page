@@ -12,7 +12,7 @@ Changed the component having map (Template 8) a bit, fixed the indentation here 
 
 ### Note:
 There are some typical "works on my device (well more of works on my local host)" problem, going to fix them sometime in future!
-
+Works great on 1280x800 resolution(verified)
 
 ## Available Scripts
 
