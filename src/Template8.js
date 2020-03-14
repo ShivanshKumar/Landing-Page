@@ -1,6 +1,5 @@
 import React from 'react';
 import LogoDark from './LogoDark.png';
-import Social from './Social.png';
 import './Template8.css';
 import Fb from './Fb.png';
 import Twitter from './Twitter.png';
