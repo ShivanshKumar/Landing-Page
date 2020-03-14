@@ -4,8 +4,8 @@ import './NavBar.css'
 import Button from './Button.js'
 const NavBar = ()=>{
 	return (
-			<ul>
-				<li><img className = 'nav logo' alt= 'prob' src = {Logo}/></li>
+			<ul id = 'navi'>
+				<li><img id = 'logonav' className = 'nav logo' alt= 'prob' src = {Logo}/></li>
 				<li className = 'nav'>
 					<ul className = 'sec'>
 						<li>Home</li>
