@@ -4,7 +4,7 @@
 }
 #never {
 	position: relative;
-	top: 5em;
+	top: 6em;
 }
 
 #never span hr {
@@ -26,6 +26,10 @@
 
 #never p {
 	color: grey;
+}
+
+#never h1 {
+	margin-top: 0.34em;
 }
 
 #cus{

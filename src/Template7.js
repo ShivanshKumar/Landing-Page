@@ -7,12 +7,14 @@ const Template7 = ()=>{
 		<div id = 't7'>
 			<img alt = 'Guys' src = {Guys}/>
 			<div id = 'form'>
-				<h1>Get In Touch With Us</h1>
-				<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit aliqua,
-						sed do eiusmod tempor incididunt ut labore et dolore magna.
-				</p>
-				<br/>
+				<span id = 'gitw'>
+					<h1>Get In Touch With Us</h1>
+					<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit aliqua,
+							sed do eiusmod tempor incididunt ut labore et dolore magna.
+					</p>
+					<br/>
+				</span>
 
 				<span id = 'fill'>
 

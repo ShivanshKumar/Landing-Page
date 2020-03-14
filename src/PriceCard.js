@@ -19,6 +19,8 @@ const PriceCard = ({img, title,price})=>{
 			<h3>/month</h3>
 			</span>
 			<Button value = 'START NOW'/>
+			<br/>
+			<br/>
 		</div>
 		);
 }

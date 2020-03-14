@@ -22,7 +22,6 @@ const Template5 = ({img,imgC,imgO})=>{
 						<hr/>
 						<h3>Feature You Never Seen Before</h3>
 					</span>
-					<br/>
 					<h1>You Will Be Able To Choose<br/>Where You Want</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
