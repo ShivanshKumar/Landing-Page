@@ -16,36 +16,35 @@ import CustomHover from './CustomHover.png'
 
 class App extends React.Component {
   constructor(){
-  	super();
-  	this.state = {
-  		img: Custom
-  	}
-	// console.log(this.state.img);
+    super();
+    this.state = {
+      img: Custom
+    }
 
   }
 
 OnHover = ()=>{
-	this.setState({img: CustomHover});
+  this.setState({img: CustomHover});
 }
 OnOut = ()=>{
-	this.setState({img: Custom});
+  this.setState({img: Custom});
 }
   render(){
     return(
-    	<React.Fragment>
-    	<NavBar/>
-    	<br/>
-    	<Template1/>
-    	<Template2/>
-    	<Template3/>
-    	<Template4/>
-    	<Middle/>
-    	<Template5 imgC = {this.OnHover} imgO = {this.OnOut} img = {this.state.img}/>
-    	<Template6/>
-    	<Template7/>
-    	<Template8/>
-    	</React.Fragment>
-    	);
+      <React.Fragment>
+      <NavBar/>
+      <br/>
+      <Template1/>
+      <Template2/>
+      <Template3/>
+      <Template4/>
+      <Middle/>
+      <Template5 imgC = {this.OnHover} imgO = {this.OnOut} img = {this.state.img}/>
+      <Template6/>
+      <Template7/>
+      <Template8/>
+      </React.Fragment>
+      );
   }
 }
 

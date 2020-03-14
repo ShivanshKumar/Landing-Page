@@ -14,7 +14,7 @@ const NavBar = ()=>{
 						<li>Portfolio</li>
 						<li>Blog</li>
 						<li>Contact</li>
-						<li><Button value = 'HIRE US'/></li>	
+						<li id = 'navb'><Button value = 'HIRE US'/></li>	
 					</ul>
 				</li>
 			</ul>

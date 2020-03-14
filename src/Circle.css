@@ -1,13 +1,13 @@
 #circle { 
 	display: flex;
 	flex-direction: column;
-	width: 27%;
+	width: 29%;
 	border-radius: 50%;
 	clear: all;
 }
 
 #write{
-	transform: scale(0.3, 0.56);
+	transform: scale(0.27, 0.63);
 
 }
 
