@@ -11,7 +11,7 @@ This Website is not responsive yet and there are few bugs, may release minor ver
 Changed the component having map (Template 8) a bit, fixed the indentation here and there, made the site a bit cleaner.
 
 ### Note:
-There are some typical "works on my device (well more of works on my local host)" problem, going to fix them sometime in future!
+There are some typical "works on my device (well more of works on my local host)" problem, going to fix them sometime in future!<br />
 Works great on 1280x800 resolution(verified)
 
 ## Available Scripts
